@@ -1,0 +1,2 @@
+# Seminario-Python
+Trabajo practico 
