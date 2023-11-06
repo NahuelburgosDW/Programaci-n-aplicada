@@ -1,2 +1,2 @@
-# Seminario-Python
+# Programación aplicada
 Trabajo practico 
